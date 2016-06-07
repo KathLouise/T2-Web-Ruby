@@ -1,0 +1,79 @@
+insere pessoas last_name="Svendson" first_name="Tove" address="Borgvn 23" city="Sandnes" 
+insere pessoas last_name="Murray" first_name="Dave" address="Iron Maiden 666" city="London" 
+insere pessoas last_name="Harris" first_name="Steve" address="Fly 666" city="London" 
+insere pessoas last_name="Gers" first_name="Jannick" address="Maiden 666" city="London" 
+insere pessoas last_name="Dickinson" first_name="Bruce" address="boing 666" city="London" 
+insere pessoas last_name="Mackbrian" first_name="Niko" address="Battery 666" city="London" 
+insere pessoas last_name="Hietala" first_name="Marco" address="My Angel 778" city="Finland"
+insere profissoes name_person="Tove" name_profession="System Analist" area_acting="TI"
+1
+insere profissoes name_person="Dave" name_profession="Guitarrist" area_acting="Music"
+2
+insere profissoes name_person="Steve" name_profession="Baixist" area_acting="Music" 
+3
+insere profissoes name_person="Jannick" name_profession="Guitarrist" area_acting="Music" 
+4
+insere profissoes name_person="Bruce" name_profession="Vocalist" area_acting="Music" 
+5
+insere sapatos name_person="Bruce" number="45" color="Blue" 
+5
+insere sapatos name_person="Niko" number="43" color="White"
+6
+insere sapatos name_person="Marco" number="47" color="Black"
+7
+insere casas name_person="Steve" address="Fly 666" city="London" state="London Maiden" country="England"
+3
+insere casas name_person="Jannick" address="Maiden 666" city="London" state="Maiden is life" country="Spain"
+4
+insere casas name_person="Dave" address="Iron Maiden 666" city="London" state="Coxinha de Frango" country="Brasil"
+2
+lista pessoas
+lista profissoes
+lista sapatos
+lista casas
+altera pessoas last_name="Dickinson"
+Greehouse
+altera pessoas first_name="Niko"
+Andre
+altera pessoas address="Maiden 666"
+Judas perdeu as botas 555
+altera pessoas city="London"
+Republica de Curitiba
+altera pessoas last_name="Harris" first_name="Steve"
+Steve
+Harris
+altera profissoes area_acting="Music" 
+Classic Music
+altera profissoes name_profession="Vocalist"
+Violist
+altera sapatos number="45"
+35
+altera sapatos color="White"
+Pink
+altera casas address="Maiden 666"
+Number Of The Beast 666
+altera casas city="London"
+Budapeste
+altera casas state="London Maiden"
+Fear Of The Dark
+altera casas country="Spain"
+Letonia
+lista pessoas
+lista profissoes
+lista sapatos
+lista casas
+exclui pessoas last_name="Svendson"
+exclui pessoas first_name="Dave"
+exclui pessoas address="Fly 666" 
+exclui pessoas city="London" 
+exclui profissoes name_profession="Guitarrist"
+exclui profissoes area_acting="Music" 
+exclui sapatos number="45"
+exclui sapatos color="Black"
+exclui casas state="Coxinha de Frango"
+exclui casas country="Brasil"
+lista pessoas
+lista profissoes
+lista sapatos
+lista casas
+exit
